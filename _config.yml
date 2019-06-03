@@ -7,3 +7,5 @@ defaults:
       path: ""
     values:
       layout: default
+plugins:
+  - jekyll-seo-tag
