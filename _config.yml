@@ -1,0 +1,9 @@
+author: "Milkey Mouse"
+title: "DDG Onion HTML Opensearch"
+description: "Install an HTML-only version of DuckDuckGo's .onion site in Tor Browser"
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layout: default
